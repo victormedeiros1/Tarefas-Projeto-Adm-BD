@@ -5,8 +5,8 @@ Links dos arquivos CREATE e INSERT
 - [INSERT](https://github.com/victormedeiros1/Tarefa-01-Consultas-Aninhadas/blob/main/tarefas/t01/tarefa01-insert.sql)
 
 Questões
-- [Q.01]()
-- [Q.04]()
-- [Q.07]()
-- [Q.10]()
+- [Q.01](https://github.com/victormedeiros1/Tarefa-01-Consultas-Aninhadas/blob/main/tarefas/t01/questoes/q01.sql)
+- [Q.04](https://github.com/victormedeiros1/Tarefa-01-Consultas-Aninhadas/blob/main/tarefas/t01/questoes/q04.sql)
+- [Q.07](https://github.com/victormedeiros1/Tarefa-01-Consultas-Aninhadas/blob/main/tarefas/t01/questoes/q07.sql)
+- [Q.10](https://github.com/victormedeiros1/Tarefa-01-Consultas-Aninhadas/blob/main/tarefas/t01/questoes/q10.sql)
 - [Q.13]()
